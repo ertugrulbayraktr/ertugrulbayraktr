@@ -2,6 +2,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://ertugrulbayraktar.com.tr" target="blank">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" 
+       alt="personal website" 
+       height="30" 
+       width="40" />
+</a>
 <a href="https://linkedin.com/in/ertugrulbayraktar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertugrulbayraktar0" height="30" width="40" /></a>
 <a href="https://medium.com/@ertugrulbayraktr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ertugrulbayraktr" height="30" width="40" /></a>
 </p>
